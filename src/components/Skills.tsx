@@ -17,14 +17,14 @@ const Skills = () => {
         <div>
           <div className="grid grid-cols-2 text-accent text-3xl sm:text-4xl">
             <div className="space-y-2">
-              <h2 data-aos="zoom-in-up">Next.js</h2>
+              <h2 data-aos="zoom-in-up">Nextjs</h2>
               <h2 data-aos="zoom-in-up">Typescript</h2>
-              <h2 data-aos="zoom-in-up">React.js</h2>
+              <h2 data-aos="zoom-in-up">Reactjs</h2>
             </div>
             <div className="space-y-2">
               <h2 data-aos="zoom-in-up">Tailwind</h2>
               <h2 data-aos="zoom-in-up">CSS</h2>
-              <h2 data-aos="zoom-in-up">Node.js</h2>
+              <h2 data-aos="zoom-in-up">Nodejs</h2>
             </div>
           </div>
         </div>

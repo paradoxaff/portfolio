@@ -8,7 +8,7 @@ import About from "@/components/About";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
-import Project from "@/components/Projects";
+
 
 export default function Home() {
   useEffect(() => {
@@ -26,7 +26,7 @@ export default function Home() {
   return (
     <main>
       <Hero />
-      <Project/>
+      <Projects/>
       <Skills />
       <Contact />
       <About />
